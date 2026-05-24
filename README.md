@@ -3,9 +3,6 @@
 Bsc Economics, Mathematics and Data Analytics student<br>Strengthening my portfolio in Data Science<br>Currently working with R and Python <br>Willing to learn more languages <br>Avid learner with a big passion
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nikitha-dakshnamoorthy-42211931a) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 # 📊 GitHub Stats:
